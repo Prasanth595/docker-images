@@ -1,0 +1,1 @@
+FROM openjdk:17-ea-14-jdk-slim
